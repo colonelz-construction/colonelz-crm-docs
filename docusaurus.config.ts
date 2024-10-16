@@ -55,7 +55,7 @@ const config: Config = {
       logo: {
         alt: 'Colonelz Logo',
         src: 'img/colonelz.png',
-        srcDark: 'img/colonelz-dark.jpg',
+        srcDark: 'img/colonelz-dark.jpg'
       },
       items: [
         {
@@ -66,7 +66,7 @@ const config: Config = {
       ],
     },
     footer: {
-      copyright: `Copyright © ${new Date().getFullYear()} Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Initializ Inc. Built with Docusaurus.`,
     },
    
 
